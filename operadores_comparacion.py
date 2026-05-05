@@ -13,4 +13,3 @@ print(6 > 10) #si no es mayor = false
 print(15 < 2) #si no es menor = false
 print(1 >= 10) #si no es mayor o igual = false
 print(10 <= 1) #si no es menor o igual = false
-
