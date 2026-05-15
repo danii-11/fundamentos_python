@@ -16,6 +16,7 @@ print(nueva_lista)
 
 # Tercer punto
 
+print("tercer")
 nueva_lista.remove("Hilito")
 print(nueva_lista)
 
@@ -24,13 +25,15 @@ print(nueva_lista)
 
 # Cuarto punto
 
+print(4)
 nueva_lista.sort()
 print(nueva_lista)
 
 # Quinto punto
 
-print(f"Se encuentran {len(nueva_lista)} canciones en la playlist?")
+print(f"Se encuentran {len(nueva_lista)} canciones en la playlist")
 
 print(f"La primera cancion que agregue se encuentra en el indice {nueva_lista.index("Playa marina")}")
 
 print(f"El string Bonus Track 1 aparece {nueva_lista.count("Bonus Track 1")} vez en la lista")
+
