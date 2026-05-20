@@ -5,8 +5,6 @@ vector_2 = (-1,0,2)
 producto_escalar = vector_1 + vector_2
 print(sorted(producto_escalar))
 
-
-
 # Segundo punto
 precios = (50, 75, 46, 22, 80, 65, 8)
 menor = min(precios)
